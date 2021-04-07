@@ -3,7 +3,7 @@
 #### I'm a Full-Stack Developer working from Texas.
 
 ##### NOW
-
+- 🤖 Experimenting with some Telegram automation
 - ✨ Led the front-end development on the most recent [Pop website](https://popsocial.app/)
 - 🩺 Building out HiPR's telehealth platform
 - 🇯🇵 Planning a perpetually delayed trip
@@ -12,6 +12,6 @@
 
 - 🏢 I'm currently working at [**Capital One**](https://www.capitalone.com/), [**HiPR Innovation**](https://hipr.io/), and [**Pop Social**](https://popsocial.app/)
 - ⚙️ I use daily: `.tsx`, `.py`, `.go`, `.ts`, `.js`
-- 🌱 I'm currently learning about **k8s** and **Telegram Bot Development**
+- 🌱 I'm currently learning about **k8s**
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/szhangdev/)
 - 😄 Pronouns: He/Him
