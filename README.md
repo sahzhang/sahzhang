@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**sahzhang/sahzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### I'm a Full-Stack Developer working from Dallas, Texas.
 
-Here are some ideas to get you started:
+##### NOW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Led the front-end development on the most recent [Pop website](https://popsocial.app/)
+- 🩺 Building out HiPR's telehealth platform
+- 🇯🇵 Planning a perpetually delayed trip
+
+##### BIO
+
+- 🏢 I'm currently working at [**Capital One**](https://www.capitalone.com/), [**HiPR Innovation**](https://hipr.io/), and [**Pop Social**](https://popsocial.app/)
+- ⚙️ I use daily: `.tsx`, `.py`, `.go`, `.ts`, `.js`
+- 🌱 I'm currently learning about **k8s** and **Telegram Bot Development**
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/szhangdev/)
+- 😄 Pronouns: He/Him
