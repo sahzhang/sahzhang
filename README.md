@@ -13,7 +13,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at [**Capital One**](https://www.capitalone.com/), [**HiPR Innovation**](https://hipr.io/), and [**Pop Social**](https://popsocial.app/)
+- 🏢 I'm currently working at [**Capital One**](https://www.capitalone.com/) and [**HiPR Innovation**](https://hipr.io/)
 
 - ⚙️ I use daily: `.tsx`, `.py`, `.go`, `.ts`, `.js`
 
