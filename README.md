@@ -5,8 +5,6 @@
 ##### NOW
 - 🤖 Experimenting with some Telegram automation
 
-- ✨ Led the front-end development on the most recent [Pop website](https://popsocial.app/)
-
 - 🩺 Building out HiPR's telehealth platform
 
 - 🇯🇵 Planning a perpetually delayed trip
