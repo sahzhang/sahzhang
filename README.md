@@ -3,9 +3,7 @@
 #### I'm a Full-Stack Developer working from Texas.
 
 ##### NOW
-- 🤖 Experimenting with some Telegram automation
-
-- 🩺 Building out HiPR's telehealth platform
+- 🧠 Learning Scala
 
 - 🇯🇵 Planning a perpetually delayed trip
 
