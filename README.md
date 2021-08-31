@@ -9,9 +9,9 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at [**Capital One**](https://www.capitalone.com/) and [**HiPR Innovation**](https://hipr.io/)
+- 🏢 I'm currently working at [**X1 Card**](https://x1.co/)
 
-- ⚙️ I use daily: `.tsx`, `.py`, `.go`, `.ts`, `.js`
+- ⚙️ I use daily: `.tsx`, `.py`, `.ts`, `.js`
 
 - 🌱 I'm currently learning about **k8s** and **CI/CD**
 
