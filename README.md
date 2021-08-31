@@ -11,7 +11,7 @@
 
 - 🏢 I'm currently working at [**X1 Card**](https://x1.co/)
 
-- ⚙️ I use daily: `.tsx`, `.scala.`, `.py`, `.js`
+- ⚙️ I use daily: `.tsx`, `.scala`, `.py`, `.js`
 
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/szhangdev/)
 
