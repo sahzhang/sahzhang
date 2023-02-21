@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working from Texas.
+#### I'm a Full-Stack Developer working from NYC.
 
 ##### NOW
 - 🧠 Learning Scala
